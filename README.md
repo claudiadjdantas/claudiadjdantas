@@ -27,7 +27,7 @@
 <div align="center"> 
 <h2>Redes Sociais </h2>
 
-  <a href="https://www.linkedin.com/in/claudiadejesusdantas" target="_blank">
+  <a href="https://www.linkedin.com/in/claudiadjdantas" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   <a href="https://www.instagram.com/claudiadjdantas/" target="_blank">
